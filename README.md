@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Autonomous Semantic Segmentation: DINOv2 & SAM Integration
 
 This repository serves as a baseline and educational playground for combining two powerful computer vision foundation models: **DINOv2** (Self-Supervised Vision Transformer) and **SAM** (Segment Anything Model). 
