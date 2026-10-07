@@ -1,3 +1,16 @@
+# Run this in a Jupyter cell (with ! prefix) or in your Ubuntu terminal
+!pip install torch torchvision opencv-python matplotlib requests transformers
+!pip install git+https://github.com/facebookresearch/segment-anything.git
+
+# Download the SAM ViT-B model weights (lighter and faster for exploration)
+!wget -q https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
+
+
+
+
+# Outside of the current Lab
+
+
 aiohappyeyeballs==2.6.2
 aiohttp==3.14.1
 aiosignal==1.4.0
