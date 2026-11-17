@@ -44,4 +44,3 @@ This project is designed to be seamlessly executed within our **Jupyter Hub** en
 4.  Download the SAM ViT-B weights:
     wget -q https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
 5.  Run the notebooks in order: 01 -> 02 -> 03.
-EOF
